@@ -1,6 +1,6 @@
 # Olá, eu sou Wellington Richard 👋
 
-### Analytics Engineer | 8+ anos em dados · Curitiba / São José dos Pinhais — PR
+### Analytics Engineer | em dados desde 2016 · Curitiba / São José dos Pinhais — PR
 
 Profissional de dados com experiência em ArcelorMittal, BRF e Unidas, migrando de operações e BI para **Analytics Engineering**. Foco em construir a estrutura que permite análises confiáveis — modelagem, qualidade de dados e pipelines reproduzíveis.
 
@@ -51,7 +51,7 @@ Pipeline de Analytics Engineering completo com dados reais de e-commerce brasile
 - Análise de Dados com Excel e Power BI – DNC
 
 ---
-   
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wellington%20Rodrigues-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-rodrigues-4984b353)
