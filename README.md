@@ -54,14 +54,14 @@ Pipeline de Analytics Engineering completo com dados reais de e-commerce brasile
 ## 🏆 Certificações e formações concluídas
 
 - **dbt Core + BigQuery** — formação completa em pipeline de Analytics Engineering (Udemy)
+- **Ciência de Dados** — formação de 280h, Escola DNC
 - Version Control – Meta (mar/2026)
 - Versionamento de Código GitHub – DNC (mar/2026)
 - SQL para Análise de Dados – DNC
 - Análise de Dados com Python – DNC
 - Limpeza e Organização de Dados com Python – DNC
 - Análise de Dados com Excel e Power BI – DNC
-
----
+--- 
 
 ## 📫 Contato
 
